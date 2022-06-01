@@ -1,0 +1,36 @@
+body{
+    background-image:url(10-MIL-PASSOS-POR-DIA-3.jpg) ;
+    font: normal 15pt Arial;
+    background-size: 100%;
+   
+    
+ 
+}
+
+header{
+    color: white;
+    text-align: center;
+
+}
+
+section{
+border-radius:20px ;
+background-color: white;
+padding: 15px;
+width: 500px;
+margin: auto; 
+
+}
+
+#dados{
+    text-align: center;
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+footer{
+color: #000;
+text-align: center;
+font: 1em sans-serif;
+
+}

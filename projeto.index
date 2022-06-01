@@ -1,0 +1,8 @@
+conta do número digitado em INICIO até o número digiado em FIM podendo pular Números de acordo com o que for Digitado em PASSOS
+em PASSOS ele pode pular números por exemplo :
+INICIO 1
+FIM 10
+PASSOS 2
+quando for clicado em CONTAR ele vai contar de 1 até 10 só que pulando de 2 em 2 
+
+
